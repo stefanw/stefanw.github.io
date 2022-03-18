@@ -2,7 +2,10 @@
   "addons": {
     "voebbot@stefanwehrmeyer.com": {
       "updates": [
-      
+        {
+          "version": "0.21.0",
+          "update_link": "https://github.com/stefanw/bibbot/releases/download/v0.21.0/bibbot-v0.21.0.xpi"
+        },
         
         {
           "version": "0.20.3",
